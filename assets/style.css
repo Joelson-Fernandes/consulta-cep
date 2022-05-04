@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis&display=swap');
+
+body {
+    height: 100vh;
+    overflow-y: hidden;
+    background-image: url(/assets/img/F100009782.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
+    font-stretch: expanded;
+    letter-spacing: 2px;
+}
+
+.container {
+    height: 100vh;
+}
+
+.div {
+    background-color: rgba(204, 204, 204, 0.5);
+}
+
+::placeholder, input, button {
+    font-weight: bold;
+    letter-spacing: 2px;
+}
