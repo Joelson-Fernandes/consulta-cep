@@ -1,8 +1,7 @@
 <h1 align="center"> Consulta CEP </h1>
 
+<p> Essa aplicação web lhe oferece uma forma simples e prática de consultar o cep. <a href="https://joelson-fernandes.github.io/consulta-cep/">Visite a página</a></p>
 
-
-<p> Essa aplicação web lhe oferece uma forma simples e prática de consultar o cep</p>
 
 ![screenshot-localhost-2022 05 05-13_12_48](https://user-images.githubusercontent.com/81213149/166967133-01705810-bfb1-4629-b3b2-65a8a191088c.png)
 ![screenshot-localhost-2022 05 05-13_14_00](https://user-images.githubusercontent.com/81213149/166967127-22786aa4-250f-44fe-ada1-2ae778c85508.png)
